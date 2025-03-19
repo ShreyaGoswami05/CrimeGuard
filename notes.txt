@@ -1,0 +1,9 @@
+prediction-
+hotspot region    
+
+
+analysis-
+1. crime stats - state and year (pie chart of crime type)
+2. crime map - year and crime type (map)
+3. crime trends - state and crime type - (Line Chart)
+4. crime-severity - (heatmap (row: states , columns: crime_types , cell: normalised_total_no_of_crime))
