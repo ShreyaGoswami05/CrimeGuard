@@ -1,0 +1,3 @@
+node_modules/
+dist/
+backend/model/vgg16_model.h5
